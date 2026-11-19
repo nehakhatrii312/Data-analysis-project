@@ -1,0 +1,8 @@
+TITANIC DATA ANALYSIS REPORT
+==============================
+Total passengers: 773
+Overall survival rate (%): 41.14
+Survival by sex: {'female': 0.74, 'male': 0.22}
+Survival by class: {1: 0.63, 2: 0.51, 3: 0.26}
+Average age: 29.5
+Average fare: 34.76
